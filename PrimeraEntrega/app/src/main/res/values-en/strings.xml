@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First homework</string>
+    <string name="fondo">backgroud image</string>
+    <string name="saludo">Welcome</string>
+    <string name="main_button">Enter</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Première livraison</string>
+    <string name="fondo">image de fond</string>
+    <string name="saludo">Bienvenue</string>
+    <string name="main_button">Montez</string>
+</resources>
